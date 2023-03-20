@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "subject": "Invitación al evento de tecnología",
+      "from": "eventos@example.com",
+      "to": "usuario@example.com",
+      "body": "Estimado usuario, nos complace invitarte al evento de tecnología que se llevará a cabo el próximo mes. ¡Esperamos verte allí!"
+    },
+    {
+      "id": 2,
+      "subject": "Confirmación de suscripción al boletín",
+      "from": "newsletter@example.com",
+      "to": "usuario@example.com",
+      "body": "¡Gracias por suscribirte a nuestro boletín! A partir de ahora recibirás actualizaciones periódicas sobre nuestras últimas noticias y promociones."
+    },
+    {
+      "id": 3,
+      "subject": "Recordatorio de pago",
+      "from": "pagos@example.com",
+      "to": "usuario@example.com",
+      "body": "Este es un recordatorio amistoso de que tu próximo pago está programado para el 28 de marzo. Asegúrate de tener fondos suficientes en tu cuenta para evitar cargos adicionales."
+    },
+    {
+      "id": 4,
+      "subject": "Terminación de Contrato",
+      "from": "pagos@example.com",
+      "to": "usuario@example.com",
+      "body": "Este es un recordatorio amistoso de que tu próximo pago está programado para el 28 de marzo. Asegúrate de tener fondos suficientes en tu cuenta para evitar cargos adicionales."
+    },
+    {
+      "id": 5,
+      "subject": "Elaboración de Renuncia",
+      "from": "pagos@example.com",
+      "to": "usuario@example.com",
+      "body": "Este es un recordatorio amistoso de que tu próximo pago está programado para el 28 de marzo. Asegúrate de tener fondos suficientes en tu cuenta para evitar cargos adicionales."
+    },
+    {
+      "id": 6,
+      "subject": "Resumen de Estancia diaria",
+      "from": "pagos@example.com",
+      "to": "usuario@example.com",
+      "body": "Este es un recordatorio amistoso de que tu próximo pago está programado para el 28 de marzo. Asegúrate de tener fondos suficientes en tu cuenta para evitar cargos adicionales."
+    },
+    {
+      "id": 7,
+      "subject": "Cumplimiento con las expectativas",
+      "from": "pagos@example.com",
+      "to": "usuario@example.com",
+      "body": "Este es un recordatorio amistoso de que tu próximo pago está programado para el 28 de marzo. Asegúrate de tener fondos suficientes en tu cuenta para evitar cargos adicionales."
+    },
+    {
+      "id": 8,
+      "subject": "Liberación de Renta",
+      "from": "pagos@example.com",
+      "to": "usuario@example.com",
+      "body": "Este es un recordatorio amistoso de que tu próximo pago está programado para el 28 de marzo. Asegúrate de tener fondos suficientes en tu cuenta para evitar cargos adicionales."
+    },
+    {
+      "id": 9,
+      "subject": "Vuelo de trabajo",
+      "from": "pagos@example.com",
+      "to": "usuario@example.com",
+      "body": "Este es un recordatorio amistoso de que tu próximo pago está programado para el 28 de marzo. Asegúrate de tener fondos suficientes en tu cuenta para evitar cargos adicionales."
+    }
+  ]
+  
